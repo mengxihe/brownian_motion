@@ -1,5 +1,5 @@
 # Brownian Motion Simulation
-
+  
 This code simulates Brownian motion, a random movement of particles suspended in a fluid (e.g., gas or liquid), and visualizes the resulting trajectory of a single particle using a matplotlib animation.
 
 ## Code Breakdown
